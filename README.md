@@ -4,7 +4,7 @@ A Budget Tracker application that allows for offline access and functionality.
 ## Description 
 ![Last Commit](https://img.shields.io/github/last-commit/cazb67/budget-tracker) ![Top Language](https://img.shields.io/github/languages/top/cazb67/budget-tracker) ![GitHub repo size](https://img.shields.io/github/repo-size/cazb67/budget-tracker) 
 
-A budget tracker application where users track withdrawals and deposits with or without a data/internet connection.
+A budget tracker application where users track withdrawals and deposits with or without a data/internet connection. If a user is on this Budget Tracker App without an internet connection, the user inputs a withdrawal or deposit then that will be shown on the page, and added to their transaction history when their connection is back online.
 
 ## Table of Contents
 1. [Installation](#Installation)
