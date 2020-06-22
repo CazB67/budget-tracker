@@ -31,7 +31,7 @@ Navigate to `localhost:3000` in the browser
 
 The following GIF shows the application's functionality and how to use. 
 
-<img src="" width="" height="" title="Budget Tracker App">
+<img src="public/budget.gif" width="" height="" title="Budget Tracker App">
 
 ## Credits
 - Team at UWA Coding Bootcamp
